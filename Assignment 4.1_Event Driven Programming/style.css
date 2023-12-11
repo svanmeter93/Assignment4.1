@@ -1,0 +1,16 @@
+#main 
+{
+    background-color: rgb(102, 27, 109);
+    font-family:fantasy;
+}
+
+#startBtn,#stopBtn {
+color: brown;
+font-family: monospace;
+font-weight: 700;
+}
+
+#imgmeme {
+    border: dashed 15px;
+    border-color: rgb(160, 58, 58);
+}
